@@ -1,0 +1,38 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+    {
+      "model": "books.book",
+      "pk": 2,
+      "fields": {
+        "name": "Три мушкетера",
+        "author": "А. Дюма",
+        "pub_date": "2015-06-10"
+      }
+    },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "1984",
+      "author": "Оруэлл",
+      "pub_date": "2014-05-12"
+    }
+  },
+    {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Унесенные ветром",
+      "author": "Маргарет Митчел",
+      "pub_date": "2020-02-11"
+    }
+  }
+  ]
